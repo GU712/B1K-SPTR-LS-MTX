@@ -1,7 +1,7 @@
 <channels>
 <channel>
 <name>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</name>
-<externallink>hhttps://raw.githubusercontent.com/mello506/B1K-SPTR-LS-MTX/main/C-SRS-SPTR-LS-MTX</externallink>
+<externallink><LINKDESSAPAGINA></externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 <info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>
@@ -12,48 +12,35 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]FILMES DE CRIME E DRAMA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/-A1F-CRDR-LS-KRP/main/A1-FLM-CRDR-LS-KRP</externallink>
-<thumbnail>https://i.ibb.co/prFmCzg/CRDR-FLM.png</thumbnail>
-<fanart>https://i.ibb.co/M8mbffh/CRIM-DRM-FAN.png</fanart>
-<info>OS MELHORES FILMES DE CRIME E DRAMA ESTÃO AQUI.
-NÃO ENCONTROU O QUE PROCURAVA ?
-SOLICITE AO SUPORTE NO GRUPO DO WHATS.</info>
+<name>[COLOR white][B]A Maldição da Residência Hill (2019)[/B][/COLOR]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg</thumbnail>																																		
+<fanart>https://www.themoviedb.org/t/p/original/dQF17lG4OZ3pC4QD9iNjaMS96gO.jpg</fanart>	
+<fanart><FUNDODASERIE></fanart>
+<info>Assista aqui os episodios da série A Maldição da Residência Hill. 
+[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
+[COLOR orange][B]01 TEMPS - 10 EPs[/B][/COLOR]
+[COLOR orange][B]ANO - 2019[/B][/COLOR]</info>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]COLEÇÕES DE FILMES DE CRIME E DRAMA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/-A1F-CRDR-LS-KRP/main/B-COL-CRDR-LS-KRP</externallink>
-<thumbnail>https://i.ibb.co/JxHVPPF/CRDR-COL.png</thumbnail>
-<fanart>https://i.ibb.co/M8mbffh/CRIM-DRM-FAN.png</fanart>
-<info>AS MELHORES COLEÇÕES DE FILMES ESTÃO AQUI.
-NÃO ENCONTROU O QUE PROCURAVA ?
-SOLICITE AO SUPORTE NO GRUPO DO WHATS.</info>
-</channel>
-</channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<channels>
-<channel>
-<name>[COLOR white][B]SÉRIES DE CRIME E DRAMA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/-A1F-CRDR-LS-KRP/main/C-SRS-CRDR-LS-KRP</externallink>
-<thumbnail>https://i.ibb.co/7WBB6PH/CRDR-SRS.png</thumbnail>
-<fanart>https://i.ibb.co/M8mbffh/CRIM-DRM-FAN.png</fanart>
-<info>AS MELHORES SÉRIES DE CRIME E DRAMA ESTÃO AQUI.
-NÃO ENCONTROU O QUE PROCURAVA ?
-SOLICITE AO SUPORTE NO GRUPO DO WHATS.</info>
+<name>[COLOR white][B]NOMEDASERIE (0000-0000)[/B][/COLOR]</name>
+<externallink><LINKDAPAGINAALVO></externallink>
+<thumbnail><CAPADASERIE></thumbnail>
+<fanart><FUNDODASERIE></fanart>
+<info>Assista aqui os episodios da série NOMEDASERIE. 
+[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
+[COLOR orange][B]00 TEMPs - 00 EPs[/B][/COLOR]
+[COLOR orange][B]ANOS - 0000 a 0000[/B][/COLOR]</info>
 </channel>
 </channels>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
 <name>[COLOR black].[/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1K-SPTR-LS-MTX/main/C-SRS-SPTR-LS-MTX</externallink>
+<externallink><LINKDAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
 </channel>
@@ -64,11 +51,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channel>
 <name>[COLOR orange][B]NÃO ENCONTROU O QUE PROCURAVA ?
 SOLICITE AO SUPORTE NO WHATS.[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/B1K-SPTR-LS-MTX/main/C-SRS-SPTR-LS-MTX</externallink>
+<externallink><LINKDAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
 <fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>	
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 
 
