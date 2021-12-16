@@ -1,13 +1,13 @@
-<item>																																		
-<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>																																		
-<link>NOLINK</link>																																		
-<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>																																		
-<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>																																		
-<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>																																		
-</item>																																		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																		
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																		
-																																		
+<item>
+<title>[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]</title>
+<link>NOLINK</link>	
+<thumbnail>https://i.ibb.co/bv1FXTF/LS-ICONE.png</thumbnail>
+<fanart>https://i.ibb.co/fv7bYhq/LS-FANART.png</fanart>
+<info>[B]FAÇA SUA ESCOLHA E DIVIRTA-SE[/B]</info>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <item>
 <title>[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]A Maldição da Residência Hill[/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=TvELCT5LGQw</link>
@@ -16,13 +16,13 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Assista ao trailer</info>
 <genre>SUSPENSE E TERROR</genre> 
 </item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																		
-																																		
-<item>																																		
-<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Maldição da Residência Hill (2019) - T01 - FHD DUAL[/B][/COLOR]</title>																																		
-																																		
-<link>NOLINK$nome=[COLOR orange][B] Temporada 01 - 10 EPs[/B][/COLOR]</link>																																		
-																																		
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]A Maldição da Residência Hill (2019) - T01 - FHD DUAL[/B][/COLOR]</title>
+
+<link>NOLINK$$lsname=[COLOR orange][B] Temporada 01 - 10 EPs[/B][/COLOR]</link>		
+																																																																			
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/11-SPTR/Mald.Res.Hill/T01/LS-T01E01.mp4$nome=[COLOR orange][B]T01E01	GET[COLOR yellow] -> [COLOR white] Steven Ve um Fantasma [/B][/COLOR]</link>																																	
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/11-SPTR/Mald.Res.Hill/T01/LS-T01E02.mp4$nome=[COLOR orange][B]T01E02	GET[COLOR yellow] -> [COLOR white] Caixao aberto [/B][/COLOR]</link>																																	
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/11-SPTR/Mald.Res.Hill/T01/LS-T01E03.mp4$nome=[COLOR orange][B]T01E03	GET[COLOR yellow] -> [COLOR white] Toque [/B][/COLOR]</link>																																	
@@ -35,10 +35,10 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>https://luminart.ls.lsnew.workers.dev/0:/SRS/11-SPTR/Mald.Res.Hill/T01/LS-T01E10.mp4$nome=[COLOR orange][B]T01E10	GET[COLOR yellow] -> [COLOR white] O Silencio Repousa Soberano [/B][/COLOR]</link>																																	
 																																		
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQQGdDgn4WpUL9PXssHecWkjfi1.jpg</thumbnail>																																		
-<fanart>https://www.themoviedb.org/t/p/original/dQF17lG4OZ3pC4QD9iNjaMS96gO.jpg</fanart>																																		
-<info>Entre o passado e o presente, uma família dividida confronta memórias assustadoras do antigo lar e dos eventos at</info>																																		
-<genre>SUSPENSE E TERROR</genre> 																																		
-</item>																																		
+<fanart>https://www.themoviedb.org/t/p/original/dQF17lG4OZ3pC4QD9iNjaMS96gO.jpg</fanart>	
+<info>Entre o passado e o presente, uma família dividida confronta memórias assustadoras do antigo lar e dos eventos at</info>
+<genre>SUSPENSE E TERROR</genre> 
+</item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX																																		
 																																		
 																																		
