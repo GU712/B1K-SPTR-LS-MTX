@@ -38,6 +38,20 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
+<channels>
+<channel>
+<name>[COLOR white][B]Monstro do Pântano (2019)[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/mello506/B1K-SPTR-LS-MTX/main/C3-SRS-Monstro.do.Pantano-MTX</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/uF4lM1rOvgfSHNIN22awO66AaU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nPU7sqg7X1h0L9IuDUd6NiijFgd.jpg</fanart>
+<info>Assista aqui os episodios da série Monstro do Pântano. 
+[COLOR orange][B]SUSPENSE E TERROR[/B][/COLOR]
+[COLOR orange][B]01 TEMP - 10 EPs[/B][/COLOR]
+[COLOR orange][B]ANO - 2019[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
 <name>[COLOR white][B]NOMEDASERIE (0000-0000)[/B][/COLOR]</name>
 <externallink><LINKDAPAGINAALVO></externallink>
 <thumbnail><CAPADASERIE></thumbnail>
